@@ -18,5 +18,3 @@ masters { 10.0.0.2; };
 file "reverse_marc";
 };
 
-
-ok
